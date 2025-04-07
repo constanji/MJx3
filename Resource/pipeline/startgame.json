@@ -1,0 +1,55 @@
+{
+    "登录": {
+        "next": ["游戏公告","登录游戏"]
+    },
+    "游戏公告": {
+        "recognition": "TemplateMatch",
+        "roi": [67, 66, 145, 153],
+        "template": "startgame/公告.png",
+        "next": ["点击关闭公告"]
+    },
+    "点击关闭公告": {
+        "recognition": "TemplateMatch",
+        "template": "startgame/关闭公告.png",
+        "roi": [1145, 63, 43, 40],
+        "action": "Click",
+        "next": ["登录游戏"]
+    },
+    "登录游戏": {
+        "recognition": "OCR",
+        "expected": "登录游戏",
+        "roi": [573, 477, 131, 38],
+        "action": "Click",
+        "next": ["进入游戏"]
+    },
+    "进入游戏": {
+        "recognition": "OCR",
+        "expected": "进入游戏",
+        "roi": [987, 642, 144, 45],
+        "action": "Click",
+        "post_wait_freezes":5000,
+        "next": ["关闭推送"]
+    },
+    "关闭推送": {
+        "recognition": "OCR",
+        "expected": "点击空白区域以继续",
+        "replace": ["点击空自区域以继续", "点击空白区域以继续"],
+        "roi": [551, 664, 175, 27],
+        "action": "Click",
+        "pre_wait_freezes": 5000
+    },
+    
+
+    "更改区服": {
+        "recognition": "TemplateMatch",
+        "template": "改变区服.png",
+        "action": "Click",
+        "next": ["选择区服"]
+    },
+    "选择区服": {
+        "recognition": "OCR",
+        "expected": "选择区服",
+        "action": "Click",
+        "next": ["登录游戏"]
+    }
+}

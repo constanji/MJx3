@@ -1,0 +1,70 @@
+{
+    "家园收菜":{
+        "next":["打开菜单"]
+    },
+
+    "打开菜单": {
+        "recognition": "TemplateMatch",
+        "template": "home/菜单.png",
+        "roi" : [1156,30,55,48],
+        "action": "Click",
+        "next": ["前往家园"]
+    },
+    "前往家园":{
+        "recognition": "TemplateMatch",
+        "template": "home/家园.png",
+        "roi" : [730,355,100,96],
+        "action": "Click",
+        "next": ["选择私邸宅园"]
+    },
+    "选择私邸宅园":{
+        "recognition": "TemplateMatch",
+        "template": "home/私宅(无小区).png",
+        "roi" : [74,299,85,86],
+        "action": "Click",
+        "next": ["点击回家"]
+    },
+    "点击回家": {    
+        "recognition": "OCR",
+        "expected": "回家",
+        "roi" : [1019,581,78,40],
+        "action": "Click",
+        "next": ["点击总览"]
+    },
+    "点击总览": {        
+        "recognition": "OCR",
+        "expected": "总览",
+        "roi" : [960,47,46,26],
+        "action": "Click",
+        "next": ["家园日常"]
+    },
+    "家园日常": {
+        "recognition": "OCR",
+        "expected": "每日许愿",
+        "roi" : [784,397,87,30],
+        "action": "Click",
+        "next": ["点击前往许愿树"]
+    },
+    "点击前往许愿树": {
+        "recognition": "OCR",
+        "expected": "自家许愿树祈福",
+        "roi" : [298,565,237,37],
+        "action": "Click",
+        "next": ["点击许愿树"]
+    },
+    "点击许愿树": {
+        "recognition": "TemplateMatch",
+        "template": "home/点击许愿树.png",
+        "roi" : [792,217,197,240],
+        "action": "Click",
+        "next": ["点击许个愿"]
+    },
+    "点击许个愿": {
+        "recognition": "OCR",
+        "expected": "许个愿",
+        "roi" : [797,562,84,37],
+        "action": "Click"
+    }
+
+
+}

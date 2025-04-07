@@ -1,0 +1,39 @@
+{   "name": "Mjx3", 
+    "author": "Constanji",
+    "version": "0.0.13",
+    "message": "Welecome to Mjx3!",
+    "controller": [
+        {
+            "name": "Adb默认方式",
+            "type": "Adb"
+        }
+    ],
+    "resource": [
+        {
+            "name": "无界",
+            "path": [
+                "{PROJECT_DIR}/Resource"
+            ]
+        }
+    ],
+    "task": [
+    {
+      "name": "启动游戏",
+      "entry": "登录",
+      "check": true,
+      "doc": "登录游戏，自动关闭公告和推流"
+    },
+    {
+      "name": "家园日常",
+      "entry": "家园收菜",
+      "check": true,  
+      "doc": "摸三次许愿树",
+      "repeatable": false,
+      "option": [
+        "摸三次许愿树",
+        "宠物出行",
+        "上厕所",
+        "家园订单"]
+    }
+ ]
+}

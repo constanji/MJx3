@@ -37,34 +37,23 @@
     {
       "name": "启动游戏",
       "entry": "登录",
-      "doc": [
-        "登录游戏，自动关闭公告和推流"
-      ],
-      "check": true
+      "check": false
     },
     {
       "name": "家园日常",
-      "entry": "家园收菜",
-      "doc": [
-        "摸三次许愿树"
-      ],
+      "entry": "前往任务",
       "check": true,
-      "repeatable": false,
       "option": [
         {
-          "name": "摸三次许愿树",
+          "name": "摸许愿树",
           "index": 0
         },
         {
-          "name": "宠物出行",
+          "name": "每日打水",
           "index": 0
         },
         {
           "name": "上厕所",
-          "index": 0
-        },
-        {
-          "name": "家园订单",
           "index": 0
         }
       ]
@@ -79,9 +68,9 @@
     "Config": "{\"extras\":{\"mumu\":{\"enable\":true,\"index\":0,\"path\":\"Z:/Program Files/Netease/MuMuPlayer-12.0\"}}}"
   },
   "EnableEdit": false,
-  "UI.MainWindow.Width": "1550.4",
-  "UI.MainWindow.Height": "838.4",
-  "UI.TaskQueue.Column1Width": "287.2",
-  "UI.TaskQueue.Column2Width": "463.2*",
-  "UI.TaskQueue.Column3Width": "323.2*"
+  "UI.MainWindow.Width": "1074.4",
+  "UI.MainWindow.Height": "590.4",
+  "UI.TaskQueue.Column1Width": "313.59999999999997",
+  "UI.TaskQueue.Column2Width": "412*",
+  "UI.TaskQueue.Column3Width": "304.8000000000002*"
 }

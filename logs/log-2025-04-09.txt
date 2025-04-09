@@ -1,0 +1,844 @@
+[2025-04-09 00:07:49.746][INF] Loading Configurations...
+[2025-04-09 00:07:49.821][INF] Current Configuration: Default
+[2025-04-09 00:07:49.955][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:07:50.353][INF] 构造函数中列宽设置成功
+[2025-04-09 00:07:50.723][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:07:50.748][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:07:50.976][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:07:50.976][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:07:51.371][INF] 窗口Loaded事件触发
+[2025-04-09 00:07:51.832][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:07:51.832][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:07:51.833][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:07:51.838][INF] 正在载入资源
+[2025-04-09 00:07:51.838][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:07:51.883][INF] 正在连接至模拟器......
+[2025-04-09 00:07:52.182][INF] GPU acceleration: Auto
+[2025-04-09 00:07:52.182][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:07:52.182][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:07:52.182][INF] ScreenCap: Default
+[2025-04-09 00:07:52.183][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:07:52.183][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:08:00.422][INF] 开始执行任务: 更新资源
+[2025-04-09 00:08:00.427][INF] 任务完成: 更新资源
+[2025-04-09 00:08:00.427][INF] 开始执行任务: 更新软件
+[2025-04-09 00:08:00.428][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:08:01.857][INF] 任务完成: 更新软件
+[2025-04-09 00:08:26.338][INF] Loading Configurations...
+[2025-04-09 00:08:26.416][INF] Current Configuration: Default
+[2025-04-09 00:08:26.557][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:08:26.956][INF] 构造函数中列宽设置成功
+[2025-04-09 00:08:27.294][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:08:27.322][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:08:27.567][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:08:27.568][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:08:27.958][INF] 窗口Loaded事件触发
+[2025-04-09 00:08:28.423][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:08:28.424][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:08:28.426][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:08:28.431][INF] 正在载入资源
+[2025-04-09 00:08:28.431][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:08:28.475][INF] 正在连接至模拟器......
+[2025-04-09 00:08:28.763][INF] GPU acceleration: Auto
+[2025-04-09 00:08:28.764][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:08:28.764][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:08:28.764][INF] ScreenCap: Default
+[2025-04-09 00:08:28.764][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:08:28.764][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:11:11.431][INF] Loading Configurations...
+[2025-04-09 00:11:11.508][INF] Current Configuration: Default
+[2025-04-09 00:11:11.651][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:11:12.084][INF] 构造函数中列宽设置成功
+[2025-04-09 00:11:12.443][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:11:12.469][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:11:12.722][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:11:12.723][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:11:13.168][INF] 窗口Loaded事件触发
+[2025-04-09 00:11:13.654][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:11:13.654][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:11:13.656][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:11:13.662][INF] 正在载入资源
+[2025-04-09 00:11:13.662][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:11:13.712][INF] 正在连接至模拟器......
+[2025-04-09 00:11:13.997][INF] GPU acceleration: Auto
+[2025-04-09 00:11:13.998][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:11:13.998][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:11:13.998][INF] ScreenCap: Default
+[2025-04-09 00:11:13.998][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:11:13.998][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:19:42.818][INF] Loading Configurations...
+[2025-04-09 00:19:42.902][INF] Current Configuration: Default
+[2025-04-09 00:19:43.037][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:19:43.528][INF] 构造函数中列宽设置成功
+[2025-04-09 00:19:43.908][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:19:43.940][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:19:44.216][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:19:44.217][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:19:44.663][INF] 窗口Loaded事件触发
+[2025-04-09 00:19:45.154][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:19:45.155][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:19:45.156][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:19:45.162][INF] 正在载入资源
+[2025-04-09 00:19:45.162][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:19:45.212][INF] 正在连接至模拟器......
+[2025-04-09 00:19:45.533][INF] GPU acceleration: Auto
+[2025-04-09 00:19:45.534][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:19:45.534][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:19:45.534][INF] ScreenCap: Default
+[2025-04-09 00:19:45.534][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:19:45.534][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:22:20.985][INF] Loading Configurations...
+[2025-04-09 00:22:21.067][INF] Current Configuration: Default
+[2025-04-09 00:22:21.201][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:22:21.614][INF] 构造函数中列宽设置成功
+[2025-04-09 00:22:21.974][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:22:22.002][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:22:22.258][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:22:22.258][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:22:22.682][INF] 窗口Loaded事件触发
+[2025-04-09 00:22:23.145][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:22:23.146][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:22:23.147][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:22:23.152][INF] 正在载入资源
+[2025-04-09 00:22:23.152][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:22:23.201][INF] 正在连接至模拟器......
+[2025-04-09 00:22:23.517][INF] GPU acceleration: Auto
+[2025-04-09 00:22:23.517][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:22:23.518][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:22:23.518][INF] ScreenCap: Default
+[2025-04-09 00:22:23.518][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:22:23.518][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:34:33.770][INF] Loading Configurations...
+[2025-04-09 00:34:33.845][INF] Current Configuration: Default
+[2025-04-09 00:34:33.992][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:34:34.400][INF] 构造函数中列宽设置成功
+[2025-04-09 00:34:34.685][ERR] 配置加载失败：interface.json
+[2025-04-09 00:34:34.697][ERR] Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'MFAAvalonia.Extensions.MaaFW.MaaNode' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'task[1].pipeline_override.next', line 38, position 25.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateDictionary(IDictionary dictionary, JsonReader reader, JsonDictionaryContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at MFAAvalonia.Helper.JsonHelper.LoadJson[T](String filePath, T defaultValue, JsonConverter[] converters) in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Helper\JsonHelper.cs:line 32
+[2025-04-09 00:34:34.771][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:34:35.118][ERR] 配置加载失败：interface.json
+[2025-04-09 00:34:35.118][ERR] Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'MFAAvalonia.Extensions.MaaFW.MaaNode' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'task[1].pipeline_override.next', line 38, position 25.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateDictionary(IDictionary dictionary, JsonReader reader, JsonDictionaryContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at MFAAvalonia.Helper.JsonHelper.LoadJson[T](String filePath, T defaultValue, JsonConverter[] converters) in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Helper\JsonHelper.cs:line 32
+[2025-04-09 00:34:35.120][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:34:35.533][INF] 窗口Loaded事件触发
+[2025-04-09 00:34:35.979][ERR] 配置加载失败：interface.json
+[2025-04-09 00:34:35.979][ERR] Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'MFAAvalonia.Extensions.MaaFW.MaaNode' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'task[1].pipeline_override.next', line 38, position 25.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateDictionary(IDictionary dictionary, JsonReader reader, JsonDictionaryContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at MFAAvalonia.Helper.JsonHelper.LoadJson[T](String filePath, T defaultValue, JsonConverter[] converters) in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Helper\JsonHelper.cs:line 32
+[2025-04-09 00:34:35.981][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:34:35.981][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:34:35.988][INF] 正在载入资源
+[2025-04-09 00:34:35.988][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\Resource\base
+[2025-04-09 00:34:35.992][INF] 正在连接至模拟器......
+[2025-04-09 00:34:36.359][INF] GPU acceleration: Auto
+[2025-04-09 00:34:36.360][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:34:36.360][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:34:36.360][INF] ScreenCap: Default
+[2025-04-09 00:34:36.360][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:34:36.360][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:34:44.734][INF] 开始执行任务: 更新资源
+[2025-04-09 00:34:44.744][INF] 任务完成: 更新资源
+[2025-04-09 00:34:44.744][INF] 开始执行任务: 更新软件
+[2025-04-09 00:34:44.745][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:34:45.917][INF] 任务完成: 更新软件
+[2025-04-09 00:36:36.686][INF] Loading Configurations...
+[2025-04-09 00:36:36.765][INF] Current Configuration: Default
+[2025-04-09 00:36:36.900][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:36:37.340][INF] 构造函数中列宽设置成功
+[2025-04-09 00:36:37.720][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:36:37.744][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:36:37.989][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:36:37.989][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:36:38.409][INF] 窗口Loaded事件触发
+[2025-04-09 00:36:38.897][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:36:38.897][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:36:38.899][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:36:38.904][INF] 正在载入资源
+[2025-04-09 00:36:38.904][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:36:38.931][INF] 正在连接至模拟器......
+[2025-04-09 00:36:39.238][INF] GPU acceleration: Auto
+[2025-04-09 00:36:39.239][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:36:39.239][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:36:39.239][INF] ScreenCap: Default
+[2025-04-09 00:36:39.239][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:36:39.239][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:36:47.111][INF] 开始执行任务: 更新资源
+[2025-04-09 00:36:47.114][INF] 任务完成: 更新资源
+[2025-04-09 00:36:47.114][INF] 开始执行任务: 更新软件
+[2025-04-09 00:36:47.114][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:36:48.035][INF] 任务完成: 更新软件
+[2025-04-09 00:38:05.812][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:38:05.820][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:38:05.823][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:38:05.854][INF] 正在连接至模拟器......
+[2025-04-09 00:38:05.939][INF] 截图耗时: 20ms(Default)
+[2025-04-09 00:38:05.941][INF] 开始任务: 启动游戏
+[2025-04-09 00:38:39.277][INF] 开始任务: 家园日常
+[2025-04-09 00:39:08.887][INF] 任务已全部完成！
+(用时 0h 1m 3s)
+[2025-04-09 00:41:28.872][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:41:28.874][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:41:28.877][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:41:28.888][INF] 正在连接至模拟器......
+[2025-04-09 00:41:28.967][INF] 截图耗时: 20ms(Default)
+[2025-04-09 00:41:28.968][INF] 开始任务: 启动游戏
+[2025-04-09 00:42:16.280][INF] 开始任务: 家园日常
+[2025-04-09 00:42:22.924][INF] 任务已全部完成！
+(用时 0h 0m 54s)
+[2025-04-09 00:44:06.214][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:44:06.215][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:44:06.216][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:44:06.219][INF] 正在连接至模拟器......
+[2025-04-09 00:44:06.321][INF] 截图耗时: 25ms(Default)
+[2025-04-09 00:44:06.321][INF] 开始任务: 家园日常
+[2025-04-09 00:44:12.991][INF] 任务已全部完成！
+(用时 0h 0m 6s)
+[2025-04-09 00:47:34.337][INF] Loading Configurations...
+[2025-04-09 00:47:34.410][INF] Current Configuration: Default
+[2025-04-09 00:47:34.551][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:47:34.967][INF] 构造函数中列宽设置成功
+[2025-04-09 00:47:35.365][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:47:35.391][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:47:35.646][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:47:35.647][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:47:36.070][INF] 窗口Loaded事件触发
+[2025-04-09 00:47:36.542][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:47:36.542][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:47:36.543][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:47:36.549][INF] 正在载入资源
+[2025-04-09 00:47:36.549][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:47:36.566][INF] 正在连接至模拟器......
+[2025-04-09 00:47:36.910][INF] GPU acceleration: Auto
+[2025-04-09 00:47:36.911][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:47:36.911][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:47:36.911][INF] ScreenCap: Default
+[2025-04-09 00:47:36.911][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:47:36.911][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:47:45.415][INF] 开始执行任务: 更新资源
+[2025-04-09 00:47:45.420][INF] 任务完成: 更新资源
+[2025-04-09 00:47:45.420][INF] 开始执行任务: 更新软件
+[2025-04-09 00:47:45.420][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:47:46.784][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:47:46.784][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:47:46.785][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:47:46.804][INF] 正在连接至模拟器......
+[2025-04-09 00:47:46.902][INF] 截图耗时: 23ms(Default)
+[2025-04-09 00:47:46.902][INF] 开始任务: 家园日常
+[2025-04-09 00:47:47.006][INF] 任务完成: 更新软件
+[2025-04-09 00:47:55.205][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:48:23.342][INF] Loading Configurations...
+[2025-04-09 00:48:23.418][INF] Current Configuration: Default
+[2025-04-09 00:48:23.557][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:48:23.986][INF] 构造函数中列宽设置成功
+[2025-04-09 00:48:24.344][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:48:24.370][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:48:24.621][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:48:24.622][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:48:25.052][INF] 窗口Loaded事件触发
+[2025-04-09 00:48:25.539][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:48:25.540][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:48:25.541][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:48:25.546][INF] 正在载入资源
+[2025-04-09 00:48:25.547][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:48:25.571][INF] 正在连接至模拟器......
+[2025-04-09 00:48:25.907][INF] GPU acceleration: Auto
+[2025-04-09 00:48:25.908][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:48:25.908][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:48:25.908][INF] ScreenCap: Default
+[2025-04-09 00:48:25.908][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:48:25.908][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:48:34.344][INF] 开始执行任务: 更新资源
+[2025-04-09 00:48:34.348][INF] 任务完成: 更新资源
+[2025-04-09 00:48:34.348][INF] 开始执行任务: 更新软件
+[2025-04-09 00:48:34.348][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:48:35.010][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:48:35.011][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:48:35.030][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:48:35.050][INF] 正在连接至模拟器......
+[2025-04-09 00:48:35.127][INF] 截图耗时: 18ms(Default)
+[2025-04-09 00:48:35.127][INF] 开始任务: 家园日常
+[2025-04-09 00:48:35.779][INF] 任务完成: 更新软件
+[2025-04-09 00:48:43.382][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:54:03.975][INF] Loading Configurations...
+[2025-04-09 00:54:04.053][INF] Current Configuration: Default
+[2025-04-09 00:54:04.187][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-09 00:54:04.597][INF] 构造函数中列宽设置成功
+[2025-04-09 00:54:04.957][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:54:04.983][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:54:05.239][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:54:05.241][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:54:05.660][INF] 窗口Loaded事件触发
+[2025-04-09 00:54:06.121][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:54:06.121][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:54:06.123][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:54:06.128][INF] 正在载入资源
+[2025-04-09 00:54:06.128][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 00:54:06.143][INF] 正在连接至模拟器......
+[2025-04-09 00:54:06.468][INF] GPU acceleration: Auto
+[2025-04-09 00:54:06.468][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 00:54:06.469][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 00:54:06.469][INF] ScreenCap: Default
+[2025-04-09 00:54:06.469][INF] Input: MinitouchAndAdbKey
+[2025-04-09 00:54:06.469][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 00:54:14.828][INF] 开始执行任务: 更新资源
+[2025-04-09 00:54:14.835][INF] 任务完成: 更新资源
+[2025-04-09 00:54:14.835][INF] 开始执行任务: 更新软件
+[2025-04-09 00:54:14.836][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 00:54:16.436][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:54:16.437][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:54:16.438][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:54:16.458][INF] 正在连接至模拟器......
+[2025-04-09 00:54:16.515][INF] 任务完成: 更新软件
+[2025-04-09 00:54:16.568][INF] 截图耗时: 26ms(Default)
+[2025-04-09 00:54:16.569][INF] 开始任务: 家园日常
+[2025-04-09 00:54:31.511][INF] 正在停止......
+[2025-04-09 00:54:32.455][INF] 已放弃本次任务
+[2025-04-09 00:55:11.510][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 00:55:11.525][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:55:11.528][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 00:55:11.545][INF] 正在连接至模拟器......
+[2025-04-09 00:55:11.645][INF] 截图耗时: 24ms(Default)
+[2025-04-09 00:55:11.645][INF] 开始任务: 家园日常
+[2025-04-09 00:55:47.341][INF] 任务已全部完成！
+(用时 0h 0m 35s)
+[2025-04-09 17:39:31.581][INF] Loading Configurations...
+[2025-04-09 17:39:31.663][INF] Current Configuration: Default
+[2025-04-09 17:39:31.844][INF] 窗口初始大小设置为: 宽度=1550.4, 高度=838.4
+[2025-04-09 17:39:32.297][INF] 构造函数中列宽设置成功
+[2025-04-09 17:39:32.822][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 17:39:32.855][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 17:39:33.131][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 17:39:33.131][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 17:39:33.616][INF] 窗口Loaded事件触发
+[2025-04-09 17:39:34.154][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 17:39:34.155][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 17:39:34.157][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 17:39:34.165][INF] 正在载入资源
+[2025-04-09 17:39:34.165][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 17:39:34.188][INF] 正在连接至模拟器......
+[2025-04-09 17:39:34.640][INF] GPU acceleration: Auto
+[2025-04-09 17:39:34.640][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 17:39:34.640][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 17:39:34.640][INF] ScreenCap: Default
+[2025-04-09 17:39:34.640][INF] Input: MinitouchAndAdbKey
+[2025-04-09 17:39:34.640][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 17:39:41.128][INF] 开始执行任务: 更新资源
+[2025-04-09 17:39:41.131][INF] 任务完成: 更新资源
+[2025-04-09 17:39:41.131][INF] 开始执行任务: 更新软件
+[2025-04-09 17:39:41.131][INF] 任务已全部完成！
+(用时 0h 0m 6s)
+[2025-04-09 17:39:42.138][INF] 任务完成: 更新软件
+[2025-04-09 18:13:21.834][INF] Loading Configurations...
+[2025-04-09 18:13:21.920][INF] Current Configuration: Default
+[2025-04-09 18:13:22.071][INF] 窗口初始大小设置为: 宽度=1026.4, 高度=548
+[2025-04-09 18:13:22.530][INF] 构造函数中列宽设置成功
+[2025-04-09 18:13:22.992][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:13:23.018][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:13:23.301][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:13:23.302][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:13:23.791][INF] 窗口Loaded事件触发
+[2025-04-09 18:13:24.268][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:13:24.269][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:13:24.272][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:13:24.278][INF] 正在载入资源
+[2025-04-09 18:13:24.278][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 18:13:24.283][INF] 正在连接至模拟器......
+[2025-04-09 18:13:24.822][ERR] MaaFramework.Binding.MaaJobStatusException: IMaaResource failed to load resources. MaaJobStatus cannot be Failed.
+System.Object[]
+   at MaaFramework.Binding.MaaJobStatusExtensions.ThrowIfNot(MaaJobStatus current, MaaJobStatus correct, String message, Object[] args) in D:\a\MaaFramework.Binding.CSharp\MaaFramework.Binding.CSharp\src\MaaFramework.Binding\Extensions\MaaJobStatusExtensions.cs:line 31
+   at MaaFramework.Binding.MaaResource..ctor(CheckStatusOption check, IEnumerable`1 bundlePaths) in D:\a\MaaFramework.Binding.CSharp\MaaFramework.Binding.CSharp\src\MaaFramework.Binding.Native\MaaResource.cs:line 76
+   at MaaFramework.Binding.MaaResource..ctor(IEnumerable`1 bundlePaths) in D:\a\MaaFramework.Binding.CSharp\MaaFramework.Binding.CSharp\src\MaaFramework.Binding.Native\MaaResource.cs:line 61
+   at MFAAvalonia.Extensions.MaaFW.MaaProcessor.<>c__DisplayClass44_1.<InitializeMaaTasker>b__1() in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Extensions\MaaFW\MaaProcessor.cs:line 146
+   at MFAAvalonia.Helper.TaskManager.<>c__DisplayClass4_0`1.<RunTaskAsync>b__0() in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Helper\TaskManager.cs:line 158
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at MFAAvalonia.Helper.TaskManager.RunTaskAsync[TResult](Func`1 function, CancellationToken token, Action`1 handleError, String name, Boolean catchException, Boolean shouldLog) in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Helper\TaskManager.cs:line 155
+[2025-04-09 18:13:24.826][INF] 开始执行任务: 更新资源
+[2025-04-09 18:13:24.828][INF] 任务已全部完成！
+(用时 0h 0m 0s)
+[2025-04-09 18:13:24.829][INF] 任务完成: 更新资源
+[2025-04-09 18:13:24.829][INF] 开始执行任务: 更新软件
+[2025-04-09 18:13:26.053][INF] 任务完成: 更新软件
+[2025-04-09 18:14:03.735][INF] Loading Configurations...
+[2025-04-09 18:14:03.806][INF] Current Configuration: Default
+[2025-04-09 18:14:03.935][INF] 窗口初始大小设置为: 宽度=1026.4, 高度=548
+[2025-04-09 18:14:04.323][INF] 构造函数中列宽设置成功
+[2025-04-09 18:14:04.666][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:14:04.689][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:14:04.928][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:14:04.929][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:14:05.338][INF] 窗口Loaded事件触发
+[2025-04-09 18:14:05.809][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:14:05.810][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:14:05.812][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:14:05.817][INF] 正在载入资源
+[2025-04-09 18:14:05.817][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 18:14:05.821][INF] 正在连接至模拟器......
+[2025-04-09 18:14:06.172][INF] GPU acceleration: Auto
+[2025-04-09 18:14:06.173][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 18:14:06.173][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 18:14:06.173][INF] ScreenCap: Default
+[2025-04-09 18:14:06.173][INF] Input: MinitouchAndAdbKey
+[2025-04-09 18:14:06.173][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 18:14:12.030][INF] 开始执行任务: 更新资源
+[2025-04-09 18:14:12.035][INF] 任务完成: 更新资源
+[2025-04-09 18:14:12.035][INF] 开始执行任务: 更新软件
+[2025-04-09 18:14:12.044][INF] 任务已全部完成！
+(用时 0h 0m 6s)
+[2025-04-09 18:14:13.147][INF] 任务完成: 更新软件
+[2025-04-09 18:14:20.912][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:14:20.913][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:14:20.914][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:14:20.944][INF] 正在连接至模拟器......
+[2025-04-09 18:14:20.995][INF] 截图耗时: 11ms(Default)
+[2025-04-09 18:14:20.996][INF] 开始任务: 启动游戏
+[2025-04-09 18:14:43.786][INF] 开始任务: 家园日常
+[2025-04-09 18:14:46.340][INF] 正在停止......
+[2025-04-09 18:14:46.631][INF] 已放弃本次任务
+[2025-04-09 18:15:54.129][INF] Loading Configurations...
+[2025-04-09 18:15:54.203][INF] Current Configuration: Default
+[2025-04-09 18:15:54.334][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 18:15:54.737][INF] 构造函数中列宽设置成功
+[2025-04-09 18:15:55.140][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:15:55.166][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:15:55.403][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:15:55.404][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:15:55.833][INF] 窗口Loaded事件触发
+[2025-04-09 18:15:56.313][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:15:56.314][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:15:56.315][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:15:56.321][INF] 正在载入资源
+[2025-04-09 18:15:56.321][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 18:15:56.339][INF] 正在连接至模拟器......
+[2025-04-09 18:15:56.698][ERR] MaaFramework.Binding.MaaJobStatusException: IMaaResource failed to load resources. MaaJobStatus cannot be Failed.
+System.Object[]
+   at MaaFramework.Binding.MaaJobStatusExtensions.ThrowIfNot(MaaJobStatus current, MaaJobStatus correct, String message, Object[] args) in D:\a\MaaFramework.Binding.CSharp\MaaFramework.Binding.CSharp\src\MaaFramework.Binding\Extensions\MaaJobStatusExtensions.cs:line 31
+   at MaaFramework.Binding.MaaResource..ctor(CheckStatusOption check, IEnumerable`1 bundlePaths) in D:\a\MaaFramework.Binding.CSharp\MaaFramework.Binding.CSharp\src\MaaFramework.Binding.Native\MaaResource.cs:line 76
+   at MaaFramework.Binding.MaaResource..ctor(IEnumerable`1 bundlePaths) in D:\a\MaaFramework.Binding.CSharp\MaaFramework.Binding.CSharp\src\MaaFramework.Binding.Native\MaaResource.cs:line 61
+   at MFAAvalonia.Extensions.MaaFW.MaaProcessor.<>c__DisplayClass44_1.<InitializeMaaTasker>b__1() in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Extensions\MaaFW\MaaProcessor.cs:line 146
+   at MFAAvalonia.Helper.TaskManager.<>c__DisplayClass4_0`1.<RunTaskAsync>b__0() in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Helper\TaskManager.cs:line 158
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at MFAAvalonia.Helper.TaskManager.RunTaskAsync[TResult](Func`1 function, CancellationToken token, Action`1 handleError, String name, Boolean catchException, Boolean shouldLog) in D:\a\MFAAvalonia\MFAAvalonia\MFAAvalonia\Helper\TaskManager.cs:line 155
+[2025-04-09 18:15:56.700][INF] 开始执行任务: 更新资源
+[2025-04-09 18:15:56.704][INF] 任务已全部完成！
+(用时 0h 0m 0s)
+[2025-04-09 18:15:56.704][INF] 任务完成: 更新资源
+[2025-04-09 18:15:56.704][INF] 开始执行任务: 更新软件
+[2025-04-09 18:15:57.583][INF] 任务完成: 更新软件
+[2025-04-09 18:22:52.639][INF] Loading Configurations...
+[2025-04-09 18:22:52.715][INF] Current Configuration: Default
+[2025-04-09 18:22:52.863][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 18:22:53.294][INF] 构造函数中列宽设置成功
+[2025-04-09 18:22:53.703][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:22:53.739][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:22:54.002][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:22:54.003][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:22:54.429][INF] 窗口Loaded事件触发
+[2025-04-09 18:22:54.913][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:22:54.913][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:22:54.915][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:22:54.920][INF] 正在载入资源
+[2025-04-09 18:22:54.920][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 18:22:54.937][INF] 正在连接至模拟器......
+[2025-04-09 18:22:55.370][INF] GPU acceleration: Auto
+[2025-04-09 18:22:55.371][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 18:22:55.371][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 18:22:55.371][INF] ScreenCap: Default
+[2025-04-09 18:22:55.371][INF] Input: MinitouchAndAdbKey
+[2025-04-09 18:22:55.371][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 18:23:04.051][INF] 开始执行任务: 更新资源
+[2025-04-09 18:23:04.057][INF] 任务完成: 更新资源
+[2025-04-09 18:23:04.057][INF] 开始执行任务: 更新软件
+[2025-04-09 18:23:04.057][INF] 任务已全部完成！
+(用时 0h 0m 9s)
+[2025-04-09 18:23:05.157][INF] 任务完成: 更新软件
+[2025-04-09 18:24:00.605][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:24:00.606][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:24:00.607][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:24:00.631][INF] 正在连接至模拟器......
+[2025-04-09 18:24:00.734][INF] 截图耗时: 24ms(Default)
+[2025-04-09 18:24:00.736][INF] 开始任务: 启动游戏
+[2025-04-09 18:24:25.299][INF] 开始任务: 家园日常
+[2025-04-09 18:24:46.442][INF] 任务已全部完成！
+(用时 0h 0m 45s)
+[2025-04-09 18:25:00.545][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:25:00.546][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:25:00.548][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:25:00.553][INF] 正在连接至模拟器......
+[2025-04-09 18:25:00.663][INF] 截图耗时: 27ms(Default)
+[2025-04-09 18:25:00.664][INF] 开始任务: 家园日常
+[2025-04-09 18:25:07.331][INF] 任务已全部完成！
+(用时 0h 0m 6s)
+[2025-04-09 18:30:21.096][INF] Loading Configurations...
+[2025-04-09 18:30:21.169][INF] Current Configuration: Default
+[2025-04-09 18:30:21.310][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 18:30:21.700][INF] 构造函数中列宽设置成功
+[2025-04-09 18:30:22.086][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:30:22.112][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:30:22.379][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:30:22.379][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:30:22.783][INF] 窗口Loaded事件触发
+[2025-04-09 18:30:23.236][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:30:23.236][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:30:23.239][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:30:23.245][INF] 正在载入资源
+[2025-04-09 18:30:23.245][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 18:30:23.267][INF] 正在连接至模拟器......
+[2025-04-09 18:30:23.614][INF] GPU acceleration: Auto
+[2025-04-09 18:30:23.614][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 18:30:23.615][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 18:30:23.615][INF] ScreenCap: Default
+[2025-04-09 18:30:23.615][INF] Input: MinitouchAndAdbKey
+[2025-04-09 18:30:23.615][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 18:30:30.704][INF] 开始执行任务: 更新资源
+[2025-04-09 18:30:30.710][INF] 任务完成: 更新资源
+[2025-04-09 18:30:30.710][INF] 开始执行任务: 更新软件
+[2025-04-09 18:30:30.710][INF] 任务已全部完成！
+(用时 0h 0m 7s)
+[2025-04-09 18:30:31.878][INF] 任务完成: 更新软件
+[2025-04-09 18:31:31.853][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:31:31.853][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:31:31.855][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:31:31.877][INF] 正在连接至模拟器......
+[2025-04-09 18:31:31.976][INF] 截图耗时: 24ms(Default)
+[2025-04-09 18:31:31.978][INF] 开始任务: 家园日常
+[2025-04-09 18:31:42.546][INF] 任务已全部完成！
+(用时 0h 0m 10s)
+[2025-04-09 18:33:43.878][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:33:43.880][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:33:43.895][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:33:43.904][INF] 正在连接至模拟器......
+[2025-04-09 18:33:44.000][INF] 截图耗时: 23ms(Default)
+[2025-04-09 18:33:44.000][INF] 开始任务: 家园日常
+[2025-04-09 18:33:53.699][INF] 任务已全部完成！
+(用时 0h 0m 9s)
+[2025-04-09 18:41:15.226][INF] Loading Configurations...
+[2025-04-09 18:41:15.302][INF] Current Configuration: Default
+[2025-04-09 18:41:15.436][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 18:41:15.866][INF] 构造函数中列宽设置成功
+[2025-04-09 18:41:16.238][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:41:16.263][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:41:16.527][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:41:16.528][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:41:16.954][INF] 窗口Loaded事件触发
+[2025-04-09 18:41:17.459][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:41:17.459][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:41:17.461][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:41:17.467][INF] 正在载入资源
+[2025-04-09 18:41:17.467][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 18:41:17.488][INF] 正在连接至模拟器......
+[2025-04-09 18:41:17.845][INF] GPU acceleration: Auto
+[2025-04-09 18:41:17.845][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 18:41:17.845][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 18:41:17.845][INF] ScreenCap: Default
+[2025-04-09 18:41:17.845][INF] Input: MinitouchAndAdbKey
+[2025-04-09 18:41:17.845][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 18:41:26.015][INF] 开始执行任务: 更新资源
+[2025-04-09 18:41:26.018][INF] 任务完成: 更新资源
+[2025-04-09 18:41:26.018][INF] 开始执行任务: 更新软件
+[2025-04-09 18:41:26.018][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 18:41:27.176][INF] 任务完成: 更新软件
+[2025-04-09 18:41:27.309][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:41:27.309][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:41:27.311][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:41:27.330][INF] 正在连接至模拟器......
+[2025-04-09 18:41:27.427][INF] 截图耗时: 23ms(Default)
+[2025-04-09 18:41:27.427][INF] 开始任务: 家园日常
+[2025-04-09 18:42:03.528][INF] 正在停止......
+[2025-04-09 18:42:05.099][INF] 已放弃本次任务
+[2025-04-09 18:44:49.330][INF] Loading Configurations...
+[2025-04-09 18:44:49.405][INF] Current Configuration: Default
+[2025-04-09 18:44:49.551][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 18:44:49.981][INF] 构造函数中列宽设置成功
+[2025-04-09 18:44:50.369][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:44:50.397][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:44:50.680][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:44:50.681][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:44:51.128][INF] 窗口Loaded事件触发
+[2025-04-09 18:44:51.649][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:44:51.649][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:44:51.651][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:44:51.657][INF] 正在载入资源
+[2025-04-09 18:44:51.657][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 18:44:51.681][INF] 正在连接至模拟器......
+[2025-04-09 18:44:52.053][INF] GPU acceleration: Auto
+[2025-04-09 18:44:52.053][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 18:44:52.053][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 18:44:52.053][INF] ScreenCap: Default
+[2025-04-09 18:44:52.053][INF] Input: MinitouchAndAdbKey
+[2025-04-09 18:44:52.053][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 18:45:01.139][INF] 开始执行任务: 更新资源
+[2025-04-09 18:45:01.142][INF] 任务完成: 更新资源
+[2025-04-09 18:45:01.142][INF] 开始执行任务: 更新软件
+[2025-04-09 18:45:01.142][INF] 任务已全部完成！
+(用时 0h 0m 9s)
+[2025-04-09 18:45:02.802][INF] 任务完成: 更新软件
+[2025-04-09 18:45:03.147][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:45:03.148][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:45:03.150][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:45:03.169][INF] 正在连接至模拟器......
+[2025-04-09 18:45:03.263][INF] 截图耗时: 22ms(Default)
+[2025-04-09 18:45:03.264][INF] 开始任务: 家园日常
+[2025-04-09 18:45:45.215][INF] 正在停止......
+[2025-04-09 18:45:45.814][INF] 已放弃本次任务
+[2025-04-09 18:45:48.447][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:45:48.447][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:45:48.448][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:45:48.451][INF] 正在连接至模拟器......
+[2025-04-09 18:45:48.542][INF] 截图耗时: 22ms(Default)
+[2025-04-09 18:45:48.543][INF] 开始任务: 家园日常
+[2025-04-09 18:46:52.809][INF] 任务已全部完成！
+(用时 0h 1m 4s)
+[2025-04-09 18:47:05.911][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:47:05.912][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:47:05.913][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:47:05.916][INF] 正在连接至模拟器......
+[2025-04-09 18:47:05.993][INF] 截图耗时: 18ms(Default)
+[2025-04-09 18:47:05.994][INF] 开始任务: 家园日常
+[2025-04-09 18:47:36.865][INF] 任务已全部完成！
+(用时 0h 0m 30s)
+[2025-04-09 18:51:08.965][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:51:08.967][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:51:08.969][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:51:08.978][INF] 正在连接至模拟器......
+[2025-04-09 18:51:09.097][INF] 截图耗时: 29ms(Default)
+[2025-04-09 18:51:09.097][INF] 开始任务: 家园日常
+[2025-04-09 18:51:38.725][INF] 正在停止......
+[2025-04-09 18:51:38.836][INF] 已放弃本次任务
+[2025-04-09 18:51:40.661][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:51:40.662][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:51:40.663][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:51:40.665][INF] 正在连接至模拟器......
+[2025-04-09 18:51:40.750][INF] 截图耗时: 21ms(Default)
+[2025-04-09 18:51:40.750][INF] 开始任务: 家园日常
+[2025-04-09 18:52:14.855][INF] 任务已全部完成！
+(用时 0h 0m 34s)
+[2025-04-09 18:53:42.484][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 18:53:42.486][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:53:42.487][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 18:53:42.493][INF] 正在连接至模拟器......
+[2025-04-09 18:53:42.575][INF] 截图耗时: 20ms(Default)
+[2025-04-09 18:53:42.575][INF] 开始任务: 家园日常
+[2025-04-09 18:54:09.930][INF] 正在停止......
+[2025-04-09 18:54:11.784][INF] 已放弃本次任务
+[2025-04-09 19:42:40.004][INF] Loading Configurations...
+[2025-04-09 19:42:40.085][INF] Current Configuration: Default
+[2025-04-09 19:42:40.223][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 19:42:40.646][INF] 构造函数中列宽设置成功
+[2025-04-09 19:42:41.080][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:42:41.105][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:42:41.354][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:42:41.355][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:42:41.789][INF] 窗口Loaded事件触发
+[2025-04-09 19:42:42.262][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:42:42.263][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:42:42.264][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:42:42.272][INF] 正在载入资源
+[2025-04-09 19:42:42.272][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 19:42:42.277][INF] 正在连接至模拟器......
+[2025-04-09 19:42:42.713][INF] GPU acceleration: Auto
+[2025-04-09 19:42:42.713][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 19:42:42.713][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 19:42:42.713][INF] ScreenCap: Default
+[2025-04-09 19:42:42.713][INF] Input: MinitouchAndAdbKey
+[2025-04-09 19:42:42.713][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 19:42:50.669][INF] 开始执行任务: 更新资源
+[2025-04-09 19:42:50.677][INF] 任务完成: 更新资源
+[2025-04-09 19:42:50.677][INF] 开始执行任务: 更新软件
+[2025-04-09 19:42:50.683][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 19:42:51.935][INF] 任务完成: 更新软件
+[2025-04-09 19:42:55.561][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:42:55.562][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:42:55.564][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:42:55.584][INF] 正在连接至模拟器......
+[2025-04-09 19:42:55.684][INF] 截图耗时: 23ms(Default)
+[2025-04-09 19:42:55.685][INF] 开始任务: 启动游戏
+[2025-04-09 19:43:20.250][INF] 开始任务: 家园日常
+[2025-04-09 19:43:41.003][INF] 任务已全部完成！
+(用时 0h 0m 45s)
+[2025-04-09 19:43:47.362][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:43:47.363][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:43:47.364][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:43:47.367][INF] 正在连接至模拟器......
+[2025-04-09 19:43:47.449][INF] 截图耗时: 20ms(Default)
+[2025-04-09 19:43:47.449][INF] 开始任务: 家园日常
+[2025-04-09 19:44:01.038][INF] 正在停止......
+[2025-04-09 19:44:01.942][INF] 已放弃本次任务
+[2025-04-09 19:55:11.891][INF] Loading Configurations...
+[2025-04-09 19:55:11.963][INF] Current Configuration: Default
+[2025-04-09 19:55:12.111][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 19:55:12.511][INF] 构造函数中列宽设置成功
+[2025-04-09 19:55:12.886][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:55:12.910][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:55:13.136][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:55:13.137][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:55:13.542][INF] 窗口Loaded事件触发
+[2025-04-09 19:55:14.020][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:55:14.021][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:55:14.023][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:55:14.031][INF] 正在载入资源
+[2025-04-09 19:55:14.031][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 19:55:14.048][INF] 正在连接至模拟器......
+[2025-04-09 19:55:14.394][INF] GPU acceleration: Auto
+[2025-04-09 19:55:14.395][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 19:55:14.395][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 19:55:14.395][INF] ScreenCap: Default
+[2025-04-09 19:55:14.396][INF] Input: MinitouchAndAdbKey
+[2025-04-09 19:55:14.396][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 19:55:22.786][INF] 开始执行任务: 更新资源
+[2025-04-09 19:55:22.791][INF] 任务完成: 更新资源
+[2025-04-09 19:55:22.791][INF] 开始执行任务: 更新软件
+[2025-04-09 19:55:22.792][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 19:59:32.388][INF] Loading Configurations...
+[2025-04-09 19:59:32.460][INF] Current Configuration: Default
+[2025-04-09 19:59:32.595][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 19:59:32.988][INF] 构造函数中列宽设置成功
+[2025-04-09 19:59:33.342][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:59:33.366][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:59:33.609][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:59:33.610][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:59:34.041][INF] 窗口Loaded事件触发
+[2025-04-09 19:59:34.513][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 19:59:34.513][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:59:34.515][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 19:59:34.520][INF] 正在载入资源
+[2025-04-09 19:59:34.520][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 19:59:34.537][INF] 正在连接至模拟器......
+[2025-04-09 19:59:34.880][INF] GPU acceleration: Auto
+[2025-04-09 19:59:34.880][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 19:59:34.880][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 19:59:34.880][INF] ScreenCap: Default
+[2025-04-09 19:59:34.880][INF] Input: MinitouchAndAdbKey
+[2025-04-09 19:59:34.881][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 19:59:43.418][INF] 开始执行任务: 更新资源
+[2025-04-09 19:59:43.421][INF] 任务完成: 更新资源
+[2025-04-09 19:59:43.421][INF] 开始执行任务: 更新软件
+[2025-04-09 19:59:43.421][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-09 19:59:44.952][INF] 任务完成: 更新软件
+[2025-04-09 20:05:18.954][INF] Loading Configurations...
+[2025-04-09 20:05:19.041][INF] Current Configuration: Default
+[2025-04-09 20:05:19.185][INF] 窗口初始大小设置为: 宽度=1074.4, 高度=590.4
+[2025-04-09 20:05:19.623][INF] 构造函数中列宽设置成功
+[2025-04-09 20:05:20.017][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 20:05:20.043][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 20:05:20.289][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 20:05:20.290][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 20:05:20.680][INF] 窗口Loaded事件触发
+[2025-04-09 20:05:21.141][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 20:05:21.142][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 20:05:21.144][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 20:05:21.149][INF] 正在载入资源
+[2025-04-09 20:05:21.149][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-09 20:05:21.166][INF] 正在连接至模拟器......
+[2025-04-09 20:05:21.473][INF] GPU acceleration: Auto
+[2025-04-09 20:05:21.474][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-09 20:05:21.474][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-09 20:05:21.474][INF] ScreenCap: Default
+[2025-04-09 20:05:21.474][INF] Input: MinitouchAndAdbKey
+[2025-04-09 20:05:21.474][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-09 20:05:28.033][INF] 开始执行任务: 更新资源
+[2025-04-09 20:05:28.042][INF] 任务完成: 更新资源
+[2025-04-09 20:05:28.042][INF] 开始执行任务: 更新软件
+[2025-04-09 20:05:28.042][INF] 任务已全部完成！
+(用时 0h 0m 6s)
+[2025-04-09 20:05:29.875][INF] 任务完成: 更新软件
+[2025-04-09 20:05:53.186][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-09 20:05:53.188][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 20:05:53.191][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-09 20:05:53.222][INF] 正在连接至模拟器......
+[2025-04-09 20:05:53.324][INF] 截图耗时: 24ms(Default)
+[2025-04-09 20:05:53.326][INF] 开始任务: 家园日常
+[2025-04-09 20:06:05.756][INF] 正在停止......
+[2025-04-09 20:06:07.560][INF] 已放弃本次任务

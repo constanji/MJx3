@@ -1,6 +1,11 @@
 {
-    "家园收菜":{
-        "next":["打开菜单"]
+    "开始家园任务": {
+        "next": ["回家"]
+    },
+
+
+    "回家":{
+        "next":["选择私邸宅园","点击家园图标","打开菜单"]
     },
 
     "打开菜单": {
@@ -8,9 +13,9 @@
         "template": "home/菜单.png",
         "roi" : [1156,30,55,48],
         "action": "Click",
-        "next": ["前往家园"]
+        "next": ["点击家园图标"]
     },
-    "前往家园":{
+    "点击家园图标":{
         "recognition": "TemplateMatch",
         "template": "home/家园.png",
         "roi" : [730,355,100,96],
@@ -28,43 +33,154 @@
         "recognition": "OCR",
         "expected": "回家",
         "roi" : [1019,581,78,40],
+        "timeout": 10000,
+        "retry": 3,
         "action": "Click",
-        "next": ["点击总览"]
+        "next": ["前往任务"]
     },
-    "点击总览": {        
+
+    "前往任务": {
+        "next": ["许愿树任务链", "打水任务链", "我会自己上厕所"]
+    },
+
+
+    "许愿树任务链": { 
         "recognition": "OCR",
         "expected": "总览",
-        "roi" : [960,47,46,26],
+        "roi" : [958,47,52,28],
         "action": "Click",
-        "next": ["家园日常"]
+        "enabled": true,  
+        "next": ["点击前往许愿树tap1"]
     },
-    "家园日常": {
+
+    "点击前往许愿树tap1": {
         "recognition": "OCR",
         "expected": "每日许愿",
         "roi" : [784,397,87,30],
         "action": "Click",
-        "next": ["点击前往许愿树"]
+        "next": ["点击前往许愿树tap2"]
     },
-    "点击前往许愿树": {
+    "点击前往许愿树tap2": {
         "recognition": "OCR",
         "expected": "自家许愿树祈福",
         "roi" : [298,565,237,37],
         "action": "Click",
-        "next": ["点击许愿树"]
+        "next": ["进入许愿界面"]
     },
-    "点击许愿树": {
+    "进入许愿界面": {
         "recognition": "TemplateMatch",
         "template": "home/点击许愿树.png",
         "roi" : [792,217,197,240],
         "action": "Click",
         "next": ["点击许个愿"]
     },
-    "点击许个愿": {
+    "点击许个愿": {  
         "recognition": "OCR",
         "expected": "许个愿",
         "roi" : [797,562,84,37],
-        "action": "Click"
-    }
+        "action": "Click",
+        "next": ["前往任务"]
+    },
 
+
+    "打水任务链": {  
+        "recognition": "OCR",
+        "expected": "总览",
+        "roi" : [958,47,52,28],
+        "action": "Click",
+        "enabled": true,   
+        "next": ["前往打水tap1"]
+    },
+    "前往打水tap1":{
+        "recognition": "OCR",
+        "expected" : "每日居家休闲",
+        "roi" : [618,390,131,43],
+        "action": "Click",
+        "next": ["前往打水tap2"]
+    },
+    "前往打水tap2":{
+        "recognition": "OCR",
+        "expected" : "每日水井打水",
+        "roi" : [317,419,151,41],
+        "action": "Click",
+        "next": ["点击居家按钮(打水)"]
+    },
+    "点击居家按钮(打水)": {
+        "recognition": "TemplateMatch",
+        "template" : "home/居家按钮.png",
+        "roi" : [795,223,137,51],
+        "action": "Click",
+        "next": ["打水"]
+    },
+    "打水": {
+        "recognition": "TemplateMatch",
+        "template" : "home/打水按钮.png",
+        "recommended roi" : [1031,509,107,83],
+        "action": "Click",
+        "post_wait_freezes":15000,
+        "next": ["退出打水界面"]
+    },
+    "退出打水界面": {
+        "recognition": "TemplateMatch",
+        "template" : "home/离开按钮.png",
+        "recommended roi" : [923,575,67,63],
+        "action": "Click",
+        "next": ["前往任务"]
+    },
+
+
+    "我会自己上厕所":{   
+         
+        "recognition": "OCR",
+        "expected": "总览",
+        "roi" : [958,47,52,28],
+        "action": "Click",
+        "enabled": true,
+        "next": ["前往厕所tap1"]
+    },
+    "前往厕所tap1":{
+        "recognition": "OCR",
+        "expected" : "邻里交往",
+        "recommended roi" : [782,569,94,38],
+        "action": "Click",
+        "next": ["前往厕所tap2"]
+    },
+    "前往厕所tap2": {
+        "recognition": "OCR",
+        "expected" : "每日茅厕解手",
+        "recommended roi" : [308,467,157,40],
+        "action": "Click",
+        "next": ["点击居家按钮(上厕所)"]
+    },
+    "点击居家按钮(上厕所)": {
+        "recognition": "TemplateMatch",
+        "template" : "home/居家按钮.png",
+        "roi" : [795,223,137,51],
+        "action": "Click",
+        "next": ["上厕所"]
+    },
+    "上厕所": {
+        "recognition": "TemplateMatch",
+        "template" : "home/上厕所按钮.png",
+        "recommended roi" : [1046,511,83,78],
+        "action": "Click",
+        "next": ["清洁"]
+    },
+    "清洁": {
+        "recognition": "TemplateMatch",
+        "template" : "home/清洁.png",
+        "recommended roi" : [925,582,63,55],
+        "action": "Click",
+        "next": ["退出厕所界面"]
+    },
+    "退出厕所界面": {    
+        "recognition": "TemplateMatch",
+        "template" : "home/离开厕所.png",
+        "recommended roi" : [922,478,67,58],
+        "action": "Click",
+        "next": ["前往任务"]
+    }
+    
+    
 
 }

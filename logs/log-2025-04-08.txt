@@ -78,3 +78,474 @@
 [2025-04-08 00:08:09.194][INF] 开始任务: 家园日常
 [2025-04-08 00:08:27.916][INF] 任务已全部完成！
 (用时 0h 1m 6s)
+[2025-04-08 21:02:21.274][INF] Loading Configurations...
+[2025-04-08 21:02:21.352][INF] Current Configuration: Default
+[2025-04-08 21:02:21.498][INF] 窗口初始大小设置为: 宽度=1550.4, 高度=838.4
+[2025-04-08 21:02:21.924][INF] 构造函数中列宽设置成功
+[2025-04-08 21:02:22.329][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:02:22.357][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:02:22.615][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:02:22.616][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:02:23.053][INF] 窗口Loaded事件触发
+[2025-04-08 21:02:23.534][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:02:23.534][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:02:23.536][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:02:23.541][INF] 正在载入资源
+[2025-04-08 21:02:23.541][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 21:02:23.591][INF] 正在连接至模拟器......
+[2025-04-08 21:02:23.886][INF] GPU acceleration: Auto
+[2025-04-08 21:02:23.887][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 21:02:23.887][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 21:02:23.887][INF] ScreenCap: Default
+[2025-04-08 21:02:23.887][INF] Input: MinitouchAndAdbKey
+[2025-04-08 21:02:23.887][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 21:02:31.109][INF] 开始执行任务: 更新资源
+[2025-04-08 21:02:31.112][INF] 任务完成: 更新资源
+[2025-04-08 21:02:31.112][INF] 开始执行任务: 更新软件
+[2025-04-08 21:02:31.112][INF] 任务已全部完成！
+(用时 0h 0m 7s)
+[2025-04-08 21:02:33.277][INF] 任务完成: 更新软件
+[2025-04-08 21:04:37.019][INF] Loading Configurations...
+[2025-04-08 21:04:37.094][INF] Current Configuration: Default
+[2025-04-08 21:04:37.228][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 21:04:37.635][INF] 构造函数中列宽设置成功
+[2025-04-08 21:04:38.026][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:04:38.055][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:04:38.329][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:04:38.330][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:04:38.744][INF] 窗口Loaded事件触发
+[2025-04-08 21:04:39.214][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:04:39.215][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:04:39.216][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:04:39.223][INF] 正在载入资源
+[2025-04-08 21:04:39.223][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 21:04:39.272][INF] 正在连接至模拟器......
+[2025-04-08 21:04:39.577][INF] GPU acceleration: Auto
+[2025-04-08 21:04:39.577][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 21:04:39.577][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 21:04:39.577][INF] ScreenCap: Default
+[2025-04-08 21:04:39.577][INF] Input: MinitouchAndAdbKey
+[2025-04-08 21:04:39.577][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 21:04:47.963][INF] 开始执行任务: 更新资源
+[2025-04-08 21:04:47.966][INF] 任务完成: 更新资源
+[2025-04-08 21:04:47.966][INF] 开始执行任务: 更新软件
+[2025-04-08 21:04:47.966][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 21:04:49.516][INF] 任务完成: 更新软件
+[2025-04-08 21:07:24.860][INF] Loading Configurations...
+[2025-04-08 21:07:24.934][INF] Current Configuration: Default
+[2025-04-08 21:07:25.066][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 21:07:25.471][INF] 构造函数中列宽设置成功
+[2025-04-08 21:07:25.827][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:07:25.854][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:07:26.097][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:07:26.097][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:07:26.508][INF] 窗口Loaded事件触发
+[2025-04-08 21:07:26.962][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:07:26.962][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:07:26.963][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:07:26.969][INF] 正在载入资源
+[2025-04-08 21:07:26.969][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 21:07:27.016][INF] 正在连接至模拟器......
+[2025-04-08 21:07:27.301][INF] GPU acceleration: Auto
+[2025-04-08 21:07:27.302][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 21:07:27.302][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 21:07:27.302][INF] ScreenCap: Default
+[2025-04-08 21:07:27.302][INF] Input: MinitouchAndAdbKey
+[2025-04-08 21:07:27.302][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 21:07:35.864][INF] 开始执行任务: 更新资源
+[2025-04-08 21:07:35.867][INF] 任务完成: 更新资源
+[2025-04-08 21:07:35.867][INF] 开始执行任务: 更新软件
+[2025-04-08 21:07:35.867][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 21:07:36.818][INF] 任务完成: 更新软件
+[2025-04-08 21:09:47.761][INF] Loading Configurations...
+[2025-04-08 21:09:47.838][INF] Current Configuration: Default
+[2025-04-08 21:09:47.975][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 21:09:48.390][INF] 构造函数中列宽设置成功
+[2025-04-08 21:09:48.740][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:09:48.767][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:09:49.013][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:09:49.014][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:09:49.417][INF] 窗口Loaded事件触发
+[2025-04-08 21:09:49.893][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:09:49.894][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:09:49.896][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:09:49.902][INF] 正在载入资源
+[2025-04-08 21:09:49.903][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 21:09:49.948][INF] 正在连接至模拟器......
+[2025-04-08 21:09:50.214][INF] GPU acceleration: Auto
+[2025-04-08 21:09:50.215][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 21:09:50.215][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 21:09:50.215][INF] ScreenCap: Default
+[2025-04-08 21:09:50.215][INF] Input: MinitouchAndAdbKey
+[2025-04-08 21:09:50.215][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 21:09:58.783][INF] 开始执行任务: 更新资源
+[2025-04-08 21:09:58.785][INF] 任务完成: 更新资源
+[2025-04-08 21:09:58.786][INF] 开始执行任务: 更新软件
+[2025-04-08 21:09:58.786][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 21:10:00.040][INF] 任务完成: 更新软件
+[2025-04-08 21:13:26.939][INF] Loading Configurations...
+[2025-04-08 21:13:27.012][INF] Current Configuration: Default
+[2025-04-08 21:13:27.154][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 21:13:27.634][INF] 构造函数中列宽设置成功
+[2025-04-08 21:13:28.018][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:13:28.049][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:13:28.313][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:13:28.314][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:13:28.731][INF] 窗口Loaded事件触发
+[2025-04-08 21:13:29.208][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:13:29.209][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:13:29.210][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:13:29.215][INF] 正在载入资源
+[2025-04-08 21:13:29.216][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 21:13:29.262][INF] 正在连接至模拟器......
+[2025-04-08 21:13:29.546][INF] GPU acceleration: Auto
+[2025-04-08 21:13:29.546][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 21:13:29.547][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 21:13:29.547][INF] ScreenCap: Default
+[2025-04-08 21:13:29.547][INF] Input: MinitouchAndAdbKey
+[2025-04-08 21:13:29.547][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 21:13:38.035][INF] 开始执行任务: 更新资源
+[2025-04-08 21:13:38.039][INF] 任务完成: 更新资源
+[2025-04-08 21:13:38.039][INF] 开始执行任务: 更新软件
+[2025-04-08 21:13:38.040][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 21:13:39.548][INF] 任务完成: 更新软件
+[2025-04-08 21:28:04.538][INF] Loading Configurations...
+[2025-04-08 21:28:04.612][INF] Current Configuration: Default
+[2025-04-08 21:28:04.742][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 21:28:05.193][INF] 构造函数中列宽设置成功
+[2025-04-08 21:28:05.544][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:28:05.573][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:28:05.818][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:28:05.818][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:28:06.242][INF] 窗口Loaded事件触发
+[2025-04-08 21:28:06.735][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 21:28:06.735][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:28:06.737][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 21:28:06.742][INF] 正在载入资源
+[2025-04-08 21:28:06.742][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 21:28:06.795][INF] 正在连接至模拟器......
+[2025-04-08 21:28:07.101][INF] GPU acceleration: Auto
+[2025-04-08 21:28:07.102][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 21:28:07.102][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 21:28:07.102][INF] ScreenCap: Default
+[2025-04-08 21:28:07.102][INF] Input: MinitouchAndAdbKey
+[2025-04-08 21:28:07.102][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 21:28:14.829][INF] 开始执行任务: 更新资源
+[2025-04-08 21:28:14.832][INF] 任务完成: 更新资源
+[2025-04-08 21:28:14.832][INF] 开始执行任务: 更新软件
+[2025-04-08 21:28:14.832][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 21:28:16.083][INF] 任务完成: 更新软件
+[2025-04-08 22:43:11.770][INF] Loading Configurations...
+[2025-04-08 22:43:11.848][INF] Current Configuration: Default
+[2025-04-08 22:43:12.010][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 22:43:12.437][INF] 构造函数中列宽设置成功
+[2025-04-08 22:43:12.825][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:43:12.860][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:13.182][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:43:13.183][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:13.627][INF] 窗口Loaded事件触发
+[2025-04-08 22:43:14.125][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:43:14.126][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:14.127][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:14.134][INF] 正在载入资源
+[2025-04-08 22:43:14.134][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 22:43:14.184][INF] 正在连接至模拟器......
+[2025-04-08 22:43:14.488][INF] GPU acceleration: Auto
+[2025-04-08 22:43:14.489][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 22:43:14.489][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 22:43:14.489][INF] ScreenCap: Default
+[2025-04-08 22:43:14.489][INF] Input: MinitouchAndAdbKey
+[2025-04-08 22:43:14.489][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 22:43:22.539][INF] 开始执行任务: 更新资源
+[2025-04-08 22:43:22.544][INF] 任务完成: 更新资源
+[2025-04-08 22:43:22.544][INF] 开始执行任务: 更新软件
+[2025-04-08 22:43:22.544][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 22:43:24.230][INF] 任务完成: 更新软件
+[2025-04-08 22:43:56.579][INF] Loading Configurations...
+[2025-04-08 22:43:56.653][INF] Current Configuration: Default
+[2025-04-08 22:43:56.783][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 22:43:57.176][INF] 构造函数中列宽设置成功
+[2025-04-08 22:43:57.517][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:43:57.543][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:57.778][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:43:57.779][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:58.183][INF] 窗口Loaded事件触发
+[2025-04-08 22:43:58.649][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:43:58.649][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:58.651][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:43:58.656][INF] 正在载入资源
+[2025-04-08 22:43:58.657][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 22:43:58.702][INF] 正在连接至模拟器......
+[2025-04-08 22:43:58.976][INF] GPU acceleration: Auto
+[2025-04-08 22:43:58.977][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 22:43:58.977][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 22:43:58.977][INF] ScreenCap: Default
+[2025-04-08 22:43:58.977][INF] Input: MinitouchAndAdbKey
+[2025-04-08 22:43:58.977][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 22:46:57.623][INF] Loading Configurations...
+[2025-04-08 22:46:57.696][INF] Current Configuration: Default
+[2025-04-08 22:46:57.834][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 22:46:58.254][INF] 构造函数中列宽设置成功
+[2025-04-08 22:46:58.620][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:46:58.650][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:46:58.913][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:46:58.914][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:46:59.373][INF] 窗口Loaded事件触发
+[2025-04-08 22:46:59.865][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:46:59.866][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:46:59.868][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:46:59.873][INF] 正在载入资源
+[2025-04-08 22:46:59.873][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 22:46:59.934][INF] 正在连接至模拟器......
+[2025-04-08 22:47:00.243][INF] GPU acceleration: Auto
+[2025-04-08 22:47:00.244][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 22:47:00.244][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 22:47:00.244][INF] ScreenCap: Default
+[2025-04-08 22:47:00.244][INF] Input: MinitouchAndAdbKey
+[2025-04-08 22:47:00.244][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 22:47:08.282][INF] 开始执行任务: 更新资源
+[2025-04-08 22:47:08.285][INF] 任务完成: 更新资源
+[2025-04-08 22:47:08.285][INF] 开始执行任务: 更新软件
+[2025-04-08 22:47:08.285][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 22:47:09.789][INF] 任务完成: 更新软件
+[2025-04-08 22:47:38.889][INF] Loading Configurations...
+[2025-04-08 22:47:38.962][INF] Current Configuration: Default
+[2025-04-08 22:47:39.094][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 22:47:39.534][INF] 构造函数中列宽设置成功
+[2025-04-08 22:47:39.911][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:47:39.940][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:47:40.207][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:47:40.208][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:47:40.708][INF] 窗口Loaded事件触发
+[2025-04-08 22:47:41.205][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:47:41.205][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:47:41.207][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:47:41.212][INF] 正在载入资源
+[2025-04-08 22:47:41.212][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 22:47:41.260][INF] 正在连接至模拟器......
+[2025-04-08 22:47:41.531][INF] GPU acceleration: Auto
+[2025-04-08 22:47:41.531][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 22:47:41.531][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 22:47:41.531][INF] ScreenCap: Default
+[2025-04-08 22:47:41.531][INF] Input: MinitouchAndAdbKey
+[2025-04-08 22:47:41.532][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 22:47:49.773][INF] 开始执行任务: 更新资源
+[2025-04-08 22:47:49.777][INF] 任务完成: 更新资源
+[2025-04-08 22:47:49.777][INF] 开始执行任务: 更新软件
+[2025-04-08 22:47:49.777][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 22:47:51.006][INF] 任务完成: 更新软件
+[2025-04-08 22:59:04.033][INF] Loading Configurations...
+[2025-04-08 22:59:04.107][INF] Current Configuration: Default
+[2025-04-08 22:59:04.238][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 22:59:04.648][INF] 构造函数中列宽设置成功
+[2025-04-08 22:59:05.003][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:59:05.028][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:59:05.259][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:59:05.259][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:59:05.667][INF] 窗口Loaded事件触发
+[2025-04-08 22:59:06.124][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 22:59:06.125][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:59:06.127][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 22:59:06.132][INF] 正在载入资源
+[2025-04-08 22:59:06.133][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 22:59:06.178][INF] 正在连接至模拟器......
+[2025-04-08 22:59:06.466][INF] GPU acceleration: Auto
+[2025-04-08 22:59:06.467][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 22:59:06.467][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 22:59:06.467][INF] ScreenCap: Default
+[2025-04-08 22:59:06.467][INF] Input: MinitouchAndAdbKey
+[2025-04-08 22:59:06.467][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:07:45.458][INF] Loading Configurations...
+[2025-04-08 23:07:45.532][INF] Current Configuration: Default
+[2025-04-08 23:07:45.682][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 23:07:46.174][INF] 构造函数中列宽设置成功
+[2025-04-08 23:07:46.565][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:07:46.592][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:07:46.850][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:07:46.851][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:07:47.314][INF] 窗口Loaded事件触发
+[2025-04-08 23:07:47.807][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:07:47.808][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:07:47.809][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:07:47.815][INF] 正在载入资源
+[2025-04-08 23:07:47.815][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 23:07:47.862][INF] 正在连接至模拟器......
+[2025-04-08 23:07:48.147][INF] GPU acceleration: Auto
+[2025-04-08 23:07:48.148][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 23:07:48.148][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 23:07:48.148][INF] ScreenCap: Default
+[2025-04-08 23:07:48.148][INF] Input: MinitouchAndAdbKey
+[2025-04-08 23:07:48.148][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:07:56.391][INF] 开始执行任务: 更新资源
+[2025-04-08 23:07:56.394][INF] 任务完成: 更新资源
+[2025-04-08 23:07:56.394][INF] 开始执行任务: 更新软件
+[2025-04-08 23:07:56.394][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 23:07:58.373][INF] 任务完成: 更新软件
+[2025-04-08 23:08:30.648][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:08:30.649][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:08:30.650][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:08:30.669][INF] 正在连接至模拟器......
+[2025-04-08 23:08:30.770][INF] 截图耗时: 24ms(Default)
+[2025-04-08 23:08:30.772][INF] 开始任务: 启动游戏
+[2025-04-08 23:09:02.357][INF] 开始任务: 家园日常
+[2025-04-08 23:09:22.750][INF] 任务已全部完成！
+(用时 0h 0m 52s)
+[2025-04-08 23:15:41.323][INF] Loading Configurations...
+[2025-04-08 23:15:41.405][INF] Current Configuration: Default
+[2025-04-08 23:15:41.561][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 23:15:42.032][INF] 构造函数中列宽设置成功
+[2025-04-08 23:15:42.495][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:15:42.527][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:15:42.824][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:15:42.825][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:15:43.319][INF] 窗口Loaded事件触发
+[2025-04-08 23:15:43.799][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:15:43.799][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:15:43.801][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:15:43.806][INF] 正在载入资源
+[2025-04-08 23:15:43.807][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 23:15:43.866][INF] 正在连接至模拟器......
+[2025-04-08 23:15:44.227][INF] GPU acceleration: Auto
+[2025-04-08 23:15:44.228][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 23:15:44.228][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 23:15:44.228][INF] ScreenCap: Default
+[2025-04-08 23:15:44.228][INF] Input: MinitouchAndAdbKey
+[2025-04-08 23:15:44.228][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:15:52.452][INF] 开始执行任务: 更新资源
+[2025-04-08 23:15:52.455][INF] 任务完成: 更新资源
+[2025-04-08 23:15:52.456][INF] 开始执行任务: 更新软件
+[2025-04-08 23:15:52.456][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 23:15:53.960][INF] 任务完成: 更新软件
+[2025-04-08 23:19:22.198][INF] Loading Configurations...
+[2025-04-08 23:19:22.272][INF] Current Configuration: Default
+[2025-04-08 23:19:22.416][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 23:19:22.850][INF] 构造函数中列宽设置成功
+[2025-04-08 23:19:23.247][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:19:23.271][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:19:23.524][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:19:23.525][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:19:23.920][INF] 窗口Loaded事件触发
+[2025-04-08 23:19:24.390][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:19:24.391][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:19:24.392][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:19:24.398][INF] 正在载入资源
+[2025-04-08 23:19:24.398][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 23:19:24.447][INF] 正在连接至模拟器......
+[2025-04-08 23:19:24.763][INF] GPU acceleration: Auto
+[2025-04-08 23:19:24.763][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 23:19:24.763][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 23:19:24.764][INF] ScreenCap: Default
+[2025-04-08 23:19:24.764][INF] Input: MinitouchAndAdbKey
+[2025-04-08 23:19:24.764][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:19:32.864][INF] 开始执行任务: 更新资源
+[2025-04-08 23:19:32.867][INF] 任务完成: 更新资源
+[2025-04-08 23:19:32.867][INF] 开始执行任务: 更新软件
+[2025-04-08 23:19:32.867][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 23:19:34.318][INF] 任务完成: 更新软件
+[2025-04-08 23:23:17.418][INF] Loading Configurations...
+[2025-04-08 23:23:17.491][INF] Current Configuration: Default
+[2025-04-08 23:23:17.625][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 23:23:18.045][INF] 构造函数中列宽设置成功
+[2025-04-08 23:23:18.431][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:23:18.457][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:23:18.743][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:23:18.743][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:23:19.190][INF] 窗口Loaded事件触发
+[2025-04-08 23:23:19.682][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:23:19.683][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:23:19.685][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:23:19.691][INF] 正在载入资源
+[2025-04-08 23:23:19.691][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 23:23:19.742][INF] 正在连接至模拟器......
+[2025-04-08 23:23:20.018][INF] GPU acceleration: Auto
+[2025-04-08 23:23:20.019][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 23:23:20.019][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 23:23:20.019][INF] ScreenCap: Default
+[2025-04-08 23:23:20.019][INF] Input: MinitouchAndAdbKey
+[2025-04-08 23:23:20.019][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:28:23.274][INF] Loading Configurations...
+[2025-04-08 23:28:23.348][INF] Current Configuration: Default
+[2025-04-08 23:28:23.492][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 23:28:23.902][INF] 构造函数中列宽设置成功
+[2025-04-08 23:28:24.262][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:28:24.288][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:28:24.513][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:28:24.514][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:28:24.920][INF] 窗口Loaded事件触发
+[2025-04-08 23:28:25.388][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:28:25.389][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:28:25.391][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:28:25.396][INF] 正在载入资源
+[2025-04-08 23:28:25.396][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 23:28:25.444][INF] 正在连接至模拟器......
+[2025-04-08 23:28:25.718][INF] GPU acceleration: Auto
+[2025-04-08 23:28:25.719][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 23:28:25.719][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 23:28:25.719][INF] ScreenCap: Default
+[2025-04-08 23:28:25.719][INF] Input: MinitouchAndAdbKey
+[2025-04-08 23:28:25.719][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:28:33.712][INF] 开始执行任务: 更新资源
+[2025-04-08 23:28:33.715][INF] 任务完成: 更新资源
+[2025-04-08 23:28:33.715][INF] 开始执行任务: 更新软件
+[2025-04-08 23:28:33.715][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 23:28:35.224][INF] 任务完成: 更新软件
+[2025-04-08 23:52:05.257][INF] Loading Configurations...
+[2025-04-08 23:52:05.335][INF] Current Configuration: Default
+[2025-04-08 23:52:05.483][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 23:52:05.895][INF] 构造函数中列宽设置成功
+[2025-04-08 23:52:06.247][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:52:06.274][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:52:06.515][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:52:06.516][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:52:06.948][INF] 窗口Loaded事件触发
+[2025-04-08 23:52:07.404][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:52:07.404][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:52:07.406][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:52:07.411][INF] 正在载入资源
+[2025-04-08 23:52:07.411][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 23:52:07.459][INF] 正在连接至模拟器......
+[2025-04-08 23:52:07.739][INF] GPU acceleration: Auto
+[2025-04-08 23:52:07.740][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 23:52:07.740][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 23:52:07.740][INF] ScreenCap: Default
+[2025-04-08 23:52:07.740][INF] Input: MinitouchAndAdbKey
+[2025-04-08 23:52:07.740][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:59:21.953][INF] Loading Configurations...
+[2025-04-08 23:59:22.029][INF] Current Configuration: Default
+[2025-04-08 23:59:22.183][INF] 窗口初始大小设置为: 宽度=1108.8, 高度=583.2
+[2025-04-08 23:59:22.602][INF] 构造函数中列宽设置成功
+[2025-04-08 23:59:22.963][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:59:22.989][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:59:23.234][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:59:23.235][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:59:23.667][INF] 窗口Loaded事件触发
+[2025-04-08 23:59:24.151][INF] MFAAvalonia Version: [mfa.version=v1.0.8] Interface Version: [data.version=v0.0.13] 
+[2025-04-08 23:59:24.152][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:59:24.154][INF] 触控模式:MinitouchAndAdbKey,捕获模式:Default
+[2025-04-08 23:59:24.159][INF] 正在载入资源
+[2025-04-08 23:59:24.159][INF] Resource: C:\Users\Administrator\Desktop\Mjx3\/Resource
+[2025-04-08 23:59:24.207][INF] 正在连接至模拟器......
+[2025-04-08 23:59:24.481][INF] GPU acceleration: Auto
+[2025-04-08 23:59:24.482][INF] AdbPath: Z:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe
+[2025-04-08 23:59:24.482][INF] AdbSerial: 127.0.0.1:16384
+[2025-04-08 23:59:24.482][INF] ScreenCap: Default
+[2025-04-08 23:59:24.482][INF] Input: MinitouchAndAdbKey
+[2025-04-08 23:59:24.482][INF] Config: {"extras":{"mumu":{"enable":true,"index":0,"path":"Z:/Program Files/Netease/MuMuPlayer-12.0"}}
+[2025-04-08 23:59:32.579][INF] 开始执行任务: 更新资源
+[2025-04-08 23:59:32.582][INF] 任务完成: 更新资源
+[2025-04-08 23:59:32.582][INF] 开始执行任务: 更新软件
+[2025-04-08 23:59:32.583][INF] 任务已全部完成！
+(用时 0h 0m 8s)
+[2025-04-08 23:59:34.380][INF] 任务完成: 更新软件
